@@ -1,0 +1,1953 @@
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
+Tempo Real,10,Netflix_Stream,192.168.1.50,4500
+Requisicao API,5,Auth_Service,10.0.0.12,12
+Background,2,Log_Backup,172.16.5.4,890
+Tempo Real,15,Pix_Gate,192.168.1.110,8
+Requisicao API,8,DB_Query,10.0.0.15,150
+Background,3,App_Update,172.16.5.9,12000
+Tempo Real,12,Zoom_Call,192.168.1.22,2100
+Requisicao API,7,Cart_Checkout,10.0.0.12,45
+Background,4,Cloud_Sync,172.16.5.4,5600
+Tempo Real,20,Telemetry_AI,192.168.1.99,950
+Requisicao API,9,User_Profile,10.0.0.20,30
+Background,5,Analytics_Dump,172.16.5.12,8500
+Tempo Real,18,Live_Gaming,192.168.1.33,350
+Requisicao API,6,Session_Val,10.0.0.15,5
+Background,2,Mail_Queue,172.16.5.4,450
+Tempo Real,11,Video_Stream,192.168.1.71,3300
+Requisicao API,4,Payment_Check,10.0.0.44,27
+Background,6,System_Backup,172.16.5.18,14000
+Tempo Real,14,Voice_Call,192.168.1.81,1200
+Requisicao API,10,Inventory_API,10.0.0.50,88
+Background,3,Report_Generator,172.16.5.20,7600
+Tempo Real,16,AR_Stream,192.168.1.120,4100
+Requisicao API,5,Login_Service,10.0.0.25,14
+Background,7,Data_Migration,172.16.5.7,18000
+Tempo Real,9,Music_Stream,192.168.1.60,2200
+Requisicao API,8,GeoLocation,10.0.0.17,40
+Background,2,Printer_Spool,172.16.5.15,980
+Tempo Real,19,Security_Cam,192.168.1.77,5100
+Requisicao API,6,Order_Status,10.0.0.39,33
+Background,4,Cache_Cleanup,172.16.5.11,4300
+Tempo Real,13,Remote_Desktop,192.168.1.91,2900
+Requisicao API,7,Notification_API,10.0.0.13,25
+Background,5,Media_Encoding,172.16.5.23,9700
+Tempo Real,17,Cloud_Render,192.168.1.66,7200
+Requisicao API,9,Invoice_Check,10.0.0.55,11
+Background,3,Log_Compress,172.16.5.2,2500
+Tempo Real,15,VR_Meeting,192.168.1.73,6100
+Requisicao API,8,Token_Refresh,10.0.0.29,19
+Background,4,Archive_Process,172.16.5.16,8000
+Tempo Real,12,Drone_Control,192.168.1.88,1400
+Requisicao API,5,Message_Broker,10.0.0.31,22
+Background,6,AI_Training,172.16.5.25,25000
+Tempo Real,20,Robot_Stream,192.168.1.101,6700
+Requisicao API,10,Search_API,10.0.0.60,17
+Background,2,Temp_Scan,172.16.5.5,650
+Tempo Real,14,Online_Class,192.168.1.58,2400
+Requisicao API,7,Maps_Service,10.0.0.42,49
+Background,5,File_Indexing,172.16.5.13,5900
+Tempo Real,18,Smart_Home,192.168.1.111,3100
+Requisicao API,6,Payment_Gateway,10.0.0.70,9
+Background,4,Email_Backup,172.16.5.8,4700
+Tempo Real,16,AI_Assistant,192.168.1.93,3600
+Requisicao API,9,CRM_Request,10.0.0.18,26
+Background,3,Metrics_Aggregator,172.16.5.6,7200
+Tempo Real,11,HD_Stream,192.168.1.41,2800
+Requisicao API,5,Sync_Service,10.0.0.90,13
+Background,6,Container_Update,172.16.5.10,15000
+Tempo Real,13,Game_Stream,192.168.1.95,4400
+Requisicao API,8,Audit_Check,10.0.0.21,31
+Background,2,Config_Backup,172.16.5.19,1300
+Tempo Real,17,Medical_Monitor,192.168.1.130,1700
+Requisicao API,6,Shipping_API,10.0.0.26,21
+Background,5,Data_Export,172.16.5.17,8400
+Tempo Real,19,Edge_Compute,192.168.1.150,5300
+Requisicao API,7,Tax_Calculator,10.0.0.61,29
+Background,4,Sensor_Backup,172.16.5.24,6600
+Tempo Real,12,IPTV_Stream,192.168.1.78,3900
+Requisicao API,5,User_Validate,10.0.0.80,16
+Background,3,Thumbnail_Generator,172.16.5.26,5400
+Tempo Real,18,Voice_Assistant,192.168.1.83,2600
+Requisicao API,9,Fraud_Detect,10.0.0.32,18
+Background,6,Server_Image,172.16.5.14,20000
+Tempo Real,14,Live_Concert,192.168.1.56,4800
+Requisicao API,8,Analytics_API,10.0.0.27,35
+Background,2,DNS_Refresh,172.16.5.3,720
+Tempo Real,20,Industrial_IoT,192.168.1.140,8100
+Requisicao API,10,Recommendation_AI,10.0.0.100,41
+Background,5,Cold_Storage_Sync,172.16.5.22,9200
+Tempo Real,15,Virtual_Event,192.168.1.115,5700
+Requisicao API,7,Chat_Service,10.0.0.53,24
+Background,4,Image_Optimizer,172.16.5.27,6100
+Tempo Real,11,Podcast_Stream,192.168.1.37,2100
+Requisicao API,6,Captcha_Verify,10.0.0.48,7
+Background,3,Update_Scheduler,172.16.5.30,3500
+Tempo Real,13,Cloud_Gaming,192.168.1.99,6200
+Requisicao API,8,Wallet_Service,10.0.0.57,15
+Background,6,Backup_Verifier,172.16.5.28,11100
+Tempo Real,17,Factory_Control,192.168.1.160,7300
+Requisicao API,9,Identity_Service,10.0.0.91,20
+Background,2,Patch_Download,172.16.5.29,1600
+Tempo Real,14,Smart_City,192.168.1.170,5500
+Requisicao API,5,API_Gateway,10.0.0.14,10
+Background,4,Data_Cleanup,172.16.5.31,4900
